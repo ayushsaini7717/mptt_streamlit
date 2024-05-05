@@ -1,0 +1,143 @@
+#root button{
+    background-color:rgb(204, 204, 240);
+}
+button.css-7ym5gk.ef3psqc11{
+    width: 150px;
+    min-height: 44.4px;
+}
+div.element-container.css-1hynsf2.e1f1d6gn2{
+    width: 368px;
+}
+div.css-1vbkxwb.e1nzilvr4{
+    text-transform: uppercase;
+    
+}
+table.css-165ax5l.e1q9reml3{
+    background-color:#E7F2FC;
+    width: 83%;
+    border: 2px black solid;
+}
+th.blank.css-a51556.e1q9reml1::before{
+    content: "Sr no.";
+}
+/* sr no col in table */
+th.blank.css-a51556.e1q9reml1{
+    background-color: rgb(204, 204, 240);
+    width: 37px;
+    font-weight: bold;
+    color: black;
+}
+/* width of load resistor in table */
+th.col_heading.level0.col0.css-a51556.e1q9reml1{
+    background-color: rgb(204, 204, 240);
+    width: 111px;
+    font-weight: bold;
+    color: black;
+}
+th.col_heading.level0.col0.css-a51556.e1q9reml1::after{
+    content: "\2126";
+}
+/* power col in table */
+th.col_heading.level0.col1.css-a51556.e1q9reml1{
+    background-color: rgb(204, 204, 240);
+    width: 111px;
+    font-weight: bold;
+    color: black;
+}
+div.css-1v0mbdj.e115fcil1{
+    width: 638px;
+}
+div.row-widget.stButton{
+    text-align: center;
+    /* left: 150px; */
+    margin: -3%;
+    /* width: 611px; */
+}
+div.block-container.css-1y4p8pa.ea3mdgi4{
+    padding-top: 0%;
+    max-width: 78rem;
+}
+div.css-1n76uvr.e1f1d6gn0{
+    width: 935px;
+}
+div.user-select-none.svg-container{
+    margin: -7px;
+}
+div.css-1v0mbdj.e115fcil1{
+    max-width: 62%;
+    align-items: center;
+}
+/* image  */
+div.css-1v0mbdj.e115fcil1{
+    max-width: 98%;
+    border: 2px black solid;
+}
+
+
+div.css-6ndxjk.e1f1d6gn0{
+    text-align: right;
+}
+div.user-select-none.svg-container{
+    left: 150px;
+    top: -8px;
+}
+
+
+div.css-1vbkxwb.e1nzilvr4:hover + div.css-1i26iaw.e1ycw9pz1{
+        display: block;
+        color: red;
+        background-color:blue;
+}
+div.css-5rimss.e1nzilvr4{
+    text-align: left;
+}
+div.user-select-none.svg-container{
+    top: 4px;
+    /* border: 2px black solid; */
+}
+div.css-1544g2n.eczjsme4{
+    margin-top: -12%;
+}
+button.css-13ejsyy.ef3psqc11{
+    margin: 12px;
+    
+}
+div.row-widget.stButton{
+    width: 170px;
+}
+div.css-1fcdlhc.e1epmnam0{
+    background-color: white;
+}
+div.stChatMessage.css-1c7y2kd.eeusbqq4{
+    background-color:rgb(204, 204, 240);
+    /* border: 2px black solid; */
+    height: auto;
+}
+div.streamlit-expanderContent.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-cf.st-bs.st-cl.st-fj.st-ef.st-eg.st-ar.st-as.st-b6.st-b5.st-be.st-em.st-bb.st-fk.st-en.st-ek.st-eo.st-el.st-ch.st-cj.st-ci.st-cg{
+    text-align: justify;
+}
+div.css-13izhro.e1f1d6gn0{
+    border: 2px black solid;
+    /* background-color:rgb(204, 204, 240); */
+}
+section.css-vk3wp9.eczjsme11{
+    width: 290px;
+}
+/* div.css-5rimss.e1nzilvr4{
+    border: 2px black solid;
+} */
+div.css-1v0mbdj.e115fcil1{
+    margin: auto;
+}
+h1#to-study-and-verify-maximum-power-transfer-theorem{
+    text-align: center;
+}
+div.row-widget.stSelectbox{
+    width: 310px;
+}
+/* div.st-be.st-bf.st-b8 div.st-au.st-ax.st-av.st-aw.st-be.st-bg.st-b8.st-b3.st-b4.st-bh.st-bi.st-bj.st-bk.st-bl.st-bm.st-bn.st-bo.st-bp.st-bq.st-b1.st-br.st-bs.st-fm.st-fn.st-fo.st-fp.st-dc div.st-be.st-bf.st-by.st-bz.st-c0.st-b3.st-c1.st-c2.st-bg.st-c3.st-c4.st-c5.st-c6{
+    width: 310px;
+} */
+div.st-be.st-bf.st-by.st-bz.st-c0.st-b3.st-c1.st-c2.st-bg.st-c3.st-c4.st-c5.st-c6{
+    width: 310px;
+}
